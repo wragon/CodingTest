@@ -29,11 +29,11 @@ for i in range(5):
 Routput = sorted(Routput)
 Boutput = sorted(Boutput)
 
-print("[redteam]")  
+print("[blueteam]")  
 for i in num_list:
     print(Routput[i])
-print("---\n[blueteam]")
+print("---\n[redteam]")
 for i in num_list:
     print(Boutput[i])
 
-#준용,강민,지환,덕화,창현,지호,승민,익준,두연,현민
+#준용,덕화,창현,승민,두연,현민,지호,한,익준,지환

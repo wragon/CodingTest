@@ -1,4 +1,4 @@
-#%% 
+#1541
 num = input().split('-')
 result = 0
 
